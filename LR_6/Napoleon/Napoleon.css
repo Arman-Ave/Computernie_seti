@@ -1,0 +1,59 @@
+body {
+            background: #a10000;
+            font-family: Georgia, "Times New Roman", serif;
+            margin: 0;
+            padding: 0;
+            color: #2a1f1f;
+        }
+        header {
+            background: #210097;
+            color: gold;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 4px solid gold;
+        }
+        nav {
+            background: #2a2a2a;
+            text-align: center;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 18px;
+        }
+        nav a:hover {
+            color: #ffd700;
+        }
+        .hero {
+            text-align: center;
+            padding: 30px;
+            background: #ece4d9;
+        }
+        .hero img {
+            width: 300px;
+            margin: 10px;
+        }
+        .section {
+            padding: 40px 60px;
+        }
+        .section h2 {
+            text-align: center;
+            color: #0e008b;
+        }
+        .quotes {
+            font-style: italic;
+            color: #ffffff;
+            text-align: center;
+            margin: 20px 0;
+            font-size: 20px;
+        }
+        footer {
+            background: #233688;
+            color: gold;
+            text-align: center;
+            padding: 15px;
+            border-top: 4px solid gold;
+            font-size: 14px;
+        }
